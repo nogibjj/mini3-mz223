@@ -1,4 +1,4 @@
-[![CI](https://github.com/nogibjj/mini2-mz223/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/mini2-mz223/actions/workflows/cicd.yml)
+[![CI](https://github.com/nogibjj/mini3-mz223/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/mini3-mz223/actions/workflows/cicd.yml)
 
 # Week 3 Mini-project: Polors Descriptive Statistics Script
 
